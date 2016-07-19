@@ -1,7 +1,2 @@
 SAluuttt
 youcef
-<<<<<<< HEAD
-
-test conflit Y
-=======
->>>>>>> master
